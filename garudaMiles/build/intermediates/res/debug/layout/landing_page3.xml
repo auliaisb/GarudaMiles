@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:alpha="0.7"
+        android:gravity="center_horizontal"
+        android:text="Garuda SocialMiles mengajak Anda berbagi inspirasi seputar pengalaman traveling Anda di berbagai destinasi di Indonesia. Pager2"
+        android:textColor="@android:color/white"
+        android:textSize="13sp" />
+</LinearLayout><!-- From: file:/C:/Users/Aulia/AndroidStudioProjects/GarudaMiles1/garudaMiles/src/main/res/layout/landing_page3.xml -->

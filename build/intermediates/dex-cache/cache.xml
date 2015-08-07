@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\exploded-aar\GarudaMiles1\multiPhotoSelectActivity\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a006f3758b6d49f47047264f1f6e722ea8c55205">
+        <dex dex="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\pre-dexed\debug\classes-21e88cd0a9c0ba5718a0241212e97a49ec23a2b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\pre-dexed\debug\classes-6eaa7ce6c757275d79c82115ca5585eede9de8ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\exploded-aar\GarudaMiles1\multiPhotoSelectActivity\unspecified\jars\libs\universal-image-loader-1.6.1-with-src.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fcefe15e2d56ea4abdaac9932d2a192d809ea1cf">
+        <dex dex="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\pre-dexed\debug\universal-image-loader-1.6.1-with-src-e967983a67d7fad47afb673ad636b61d1b13d8a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\pre-dexed\debug\classes-cfdc86cb48d0ada76ad651a99ff7a2e01b0f2216.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\exploded-aar\GarudaMiles1\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="91599683066a0e40c06bfd42b6543e3034b92f6f">
+        <dex dex="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\pre-dexed\debug\classes-3b5ff6f21f7254d0d0499394dfde75bd05a7207f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\exploded-aar\GarudaMiles1\library1\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c808a446f4a802f50808dcb698e6c02ca889b43e">
+        <dex dex="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\pre-dexed\debug\classes-2a8eea2a22994004f1717420488a2c9a43352311.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\pre-dexed\debug\classes-1c763038eb3f5b505bc0f96892c6669572ea86f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aulia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\multiPhotoSelectActivity\build\intermediates\pre-dexed\release\support-v4-18.0.0-59e31026c9164d21a45bc86f0b5591e530d49b4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aulia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-085967354700e7f6eecb02e75dd506bf0688eb2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\garudaMiles\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-1e60bdab29798f80a067d3954a7a84b2fadfe8d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\multiPhotoSelectActivity\libs\universal-image-loader-1.6.1-with-src.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fcefe15e2d56ea4abdaac9932d2a192d809ea1cf">
+        <dex dex="C:\Users\Aulia\AndroidStudioProjects\GarudaMiles1\multiPhotoSelectActivity\build\intermediates\pre-dexed\release\universal-image-loader-1.6.1-with-src-1b5252992e741cd11197e421b2b206ca93a05938.jar" />
+    </item>
+
+</items>
